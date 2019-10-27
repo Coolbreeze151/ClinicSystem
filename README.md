@@ -1,1 +1,1 @@
-# ClinicSystem
+# ClinicAppointmentRegistrationSystem
